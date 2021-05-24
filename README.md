@@ -1,5 +1,5 @@
-<h1 align="center">Heyy There</h1>
-<h3 align="center">I am a passionately curious guy.</h3>
+<h1 align="center"> 👋 Heyy There</h1>
+<h3 align="center">I am a passionately curious, practitioner and learner.</h3>
 
 - ⚡ Fun fact **I love travelling and gaming.**
 
