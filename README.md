@@ -6,11 +6,11 @@
 <!--     - 🌱 I’m currently learning React Framework<br> -->
     - ⚡ Fun fact: I love travelling and gaming
     
-### Connect with Me
+<!-- ### Connect with Me
 <p>
 <a href="https://twitter.com/AshwinKhatiwad3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="_zaxiya" height="30" width="40" /></a>
 <a href="https://instagram.com/_ashwinn.__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_zaxiya" height="30" width="40" /></a>
-</p>
+</p> -->
  ### Languages and Tools:
 <p>  
     <a href="https://www.cprogramming.com/" target="_blank"> 
