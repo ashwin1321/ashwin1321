@@ -1,5 +1,5 @@
 <h1 align="center"> 👋 Heyy there,</h1>
-<h3 align="center">I am a passionately curious practitioner and learner.</h3>
+<h3 align="center">I am a passionate practitioner and learner.</h3>
        
 
 ![ashwin1321](https://komarev.com/ghpvc/?username=ashwin1321&theme=nightowl&hide_border=true)
