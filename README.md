@@ -3,7 +3,7 @@
 <h3 align="center">I am a passionate practitioner and learner.</h3>
        
 
-![ashwin1321](https://komarev.com/ghpvc/?username=ashwin1321&theme=nightowl&hide_border=true)
+![ashwin1321](https://komarev.com/ghpvc/?username=ashwin1321&theme=nightowl&hide_border=true) <br>
     - 🌱 I’m currently learning MERN<br>
     - ⚡ Fun fact: I love travelling and gaming
     
