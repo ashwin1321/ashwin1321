@@ -4,7 +4,7 @@
        
 
 ![ashwin1321](https://komarev.com/ghpvc/?username=ashwin1321&theme=nightowl&hide_border=true)
-<!--     - 🌱 I’m currently learning React Framework<br> -->
+    - 🌱 I’m currently learning MERN<br>
     - ⚡ Fun fact: I love travelling and gaming
     
 <!-- ### Connect with Me
