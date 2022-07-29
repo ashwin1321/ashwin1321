@@ -1,6 +1,7 @@
 <!--                                                                   K herna aako bhai                                                                                      -->
 <h1 align="center"> 👋 Heyy there,</h1>
-<h3 align="center">I am a passionate practitioner and learner.</h3>
+<!-- <h3 align="center">I am a passionate practitioner and learner.</h3> -->
+<h3 align="center">Enthusiastic and slowly moving towards better life.</h3>
        
 
 ![ashwin1321](https://komarev.com/ghpvc/?username=ashwin1321&theme=nightowl&hide_border=true) <br>
