@@ -51,5 +51,5 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ashwin1321&layout=compact&theme=nightowl&hide_border=true)](https://github.com/ashwin1321/github-readme-stats)
 
-<!-- [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ashwin1321&theme=nightowl&hide_border=true)](https://git.io/streak-stats) -->
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ashwin1321&theme=nightowl&hide_border=true)](https://git.io/streak-stats)
 
