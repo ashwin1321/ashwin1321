@@ -53,3 +53,6 @@
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ashwin1321&theme=nightowl&hide_border=true)](https://git.io/streak-stats)
 
+<a href="http://www.github.com/ashwin1321"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=ashwin1321&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+
+
