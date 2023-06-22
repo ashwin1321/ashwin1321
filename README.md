@@ -5,7 +5,7 @@
        
 
 ![ashwin1321](https://komarev.com/ghpvc/?username=ashwin1321&theme=nightowl&hide_border=true) <br>
-    - 🌱 I’m currently learning Typescript. <br>
+    - 🌱 I’m currently learning nestjs. <br>
     - ⚡ Fun fact: I love travelling and gaming
     
     
