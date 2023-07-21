@@ -3,11 +3,9 @@ Hi 👋
 =================================
 
 ![ashwin1321](https://komarev.com/ghpvc/?username=ashwin1321&theme=nightowl&hide_border=true) <br>
-Enthusiastic and slowly moving towards better life.
+<h3>Enthusiastic and slowly moving towards a better life. </h3>
 
-* 🖥️  See my portfolio at [My Portfolio](http://khatiwadaashwin.com.np)
-* ✉️  You can contact me at [code.ashwin@gmail.com](mailto:code.ashwin@gmail.com)
-* 🧠  I'm learning nestjs
+* I love travelling and gaming(haven't played game in a while)
 
 # Skills
 
