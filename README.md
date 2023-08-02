@@ -107,7 +107,8 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashwin1321&label=Profile%20views&color=0e75b6&style=flat" alt="ashwin1321" /> </p>
 
 - 🌱 I’m currently learning 
-- ⚡ Fun fact: I love travelling and gaming
+- ⚡ Fun fact: I love travelling and gaming <img src= "https://media2.giphy.com/media/Lm5hxmmI6ucOQGfjKj/giphy.gif?cid=6c09b952o9xti0m387z597k2xqipch3qmqjydym98oef87ve&rid=giphy.gif&ct=s" width= "30" height= "30">
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
