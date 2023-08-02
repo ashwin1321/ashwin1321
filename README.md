@@ -1,5 +1,5 @@
 <!--                                                                   K herna aako bhai                                                                                      -->
-Hi 👋
+<!-- Hi 👋
 =================================
 
 ![ashwin1321](https://komarev.com/ghpvc/?username=ashwin1321&theme=nightowl&hide_border=true) <br>
@@ -38,14 +38,14 @@ Hi 👋
 <p align="left"> <a href="https://www.github.com/ashwin1321" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/ashwinkhatiwada_" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/ashwin-khatiwada" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/AshwinKhatiwad3" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p> -->
 
 
-# GitHub Stats:
+<!-- # GitHub Stats: --> 
 <!-- ![](https://github-readme-stats.vercel.app/api?username=ashwin1321&theme=nightowl&hide_border=false&include_all_commits=false&count_private=false)<br/> <br /> -->
-&emsp; &emsp; &emsp;&emsp;&emsp; ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ashwin1321&theme=nightowl&hide_border=false&include_all_commits=false&count_private=false&layout=compact) <br /> <br/>
+<!-- &emsp; &emsp; &emsp;&emsp;&emsp; ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ashwin1321&theme=nightowl&hide_border=false&include_all_commits=false&count_private=false&layout=compact) <br /> <br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=ashwin1321&theme=nightowl&hide_border=false)
 
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical) --?
 
 
 
@@ -99,4 +99,27 @@ Hi 👋
 
 <a href="http://www.github.com/ashwin1321"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=ashwin1321&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a> -->
 <!--  --> 
+
+<h1 align="center">Hi 👋, I'm Ashwin  <img src= "https://media.tenor.com/images/2adfe94e69139f3e22623b61d375a7a7/tenor.gif" width= "30" height= "30">
+</h1> 
+<h3 align="center">Enthusiastic and slowly moving towards better life!!</h3>
+ <img align=right src='https://camo.githubusercontent.com/1c599fd918f649ead173975ee0cb6ce72c47d2765e2813f608f7282a74407e26/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f38333648694a633770677a7938694e58436e2f67697068792e676966'>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ashwin1321&label=Profile%20views&color=0e75b6&style=flat" alt="ashwin1321" /> </p>
+
+- 🌱 I’m currently learning 
+- ⚡ Fun fact: I love travelling and gaming
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/ashwin-khatiwada" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ashwin1321" height="30" width="40" /></a>
+<a href="https://instagram.com/ashwinkhatiwada_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ashwin1321_" height="30" width="40" /></a>
+  
+</p>
+
+## 🪪 Profile Summary
+<p align="center">
+<img width="48%" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ashwin1321&theme=github_dark"/>
+<img width="48%" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ashwin1321&theme=github_dark"/>
+<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=ashwin1321&&theme=github_dark" alt="ashwin1321" />
+</p>
 
