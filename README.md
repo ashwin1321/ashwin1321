@@ -29,7 +29,7 @@ A developer who values logic, structure,
 and long-term maintainability over hype.
 ```
 
-🧠⚔️ TECH ARSENAL
+🧠⚔️ TECH ARSENAL<br>
 🧠 Languages
 <p> <img src="https://skillicons.dev/icons?i=js,ts,python,java,c,cpp,dotnet" /> </p>
 🎨 Frontend
