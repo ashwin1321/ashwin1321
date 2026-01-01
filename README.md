@@ -1,7 +1,7 @@
 <h1 align="center">⚡ Ashwin Khatiwada ⚡</h1>
 
 <p align="center">
-  <b>Full-Stack Engineer • Backend-Focused • Code Minimalist</b>
+  <b>Full-Stack Engineer • Backend-Focused • Code Minimalist  • QA Automation</b>
 </p>
 
 <p align="center">
