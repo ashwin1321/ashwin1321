@@ -29,7 +29,7 @@ A developer who values logic, structure,
 and long-term maintainability over hype.
 ```
 
-🧠⚔️ TECH ARSENAL<br>
+## 🧠⚔️ TECH ARSENAL<br>
 🧠 Languages
 <p> <img src="https://skillicons.dev/icons?i=js,ts,python,java,c,cpp,dotnet" /> </p>
 🎨 Frontend
@@ -46,11 +46,11 @@ and long-term maintainability over hype.
   <img src="https://github-readme-streak-stats.herokuapp.com?user=ashwin1321&theme=dark&hide_border=true" />
 </p>
 
-CODE PHILOSOPHY
+## CODE PHILOSOPHY
 
 ```
 Write code like someone else will maintain it — and that person knows where you live.
 ```
 
-🤝 CONNECT OR COLLAB
+## 🤝 CONNECT OR COLLAB
 <p> <a href="https://linkedin.com/in/ashwin-khatiwada" target="_blank"> <img src="https://skillicons.dev/icons?i=linkedin" /> </a> <a href="https://instagram.com/ashwinkhatiwada_" target="_blank"> <img src="https://skillicons.dev/icons?i=instagram" /> </a> </p> <p align="center"> ⚠️ <b>This profile evolves. So do I.</b> </p> 
